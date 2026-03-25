@@ -50,14 +50,6 @@ Navigate to [http://localhost:5173](http://localhost:5173) in your browser.
 
 The dashboard loads live data from the API. Both the API server and frontend must be running simultaneously.
 
-## Build for production
-
-```bash
-npm run build
-```
-
-Output is generated in the `dist/` folder. Serve it alongside the API server.
-
 ## Project structure
 
 ```
@@ -70,3 +62,5 @@ android-dashboard/
 ├── package.json
 └── vite.config.js
 ```
+## Expected Outcome
+[Dashboard Screenshot](docs/screenshot.png)
