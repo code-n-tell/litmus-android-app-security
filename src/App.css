@@ -1,0 +1,19 @@
+/* ── Responsive breakpoints for sector card grid ── */
+
+@media (max-width: 1100px) {
+  .sector-grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+  .kpi-strip {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .sector-grid {
+    grid-template-columns: 1fr !important;
+  }
+  .kpi-strip {
+    grid-template-columns: 1fr !important;
+  }
+}
