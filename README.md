@@ -63,4 +63,4 @@ android-dashboard/
 └── vite.config.js
 ```
 ## Expected Outcome
-[Dashboard Screenshot](docs/screenshot.png)
+![Dashboard Screenshot](docs/screenshot.png)
